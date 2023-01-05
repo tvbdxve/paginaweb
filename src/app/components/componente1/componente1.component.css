@@ -1,0 +1,8 @@
+body{
+    background-image: url("/fondito.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.imgf{
+    align-items: center;
+}
